@@ -1,4 +1,4 @@
-## Taylor the Quicksell Vendor
+<h1 align="center">## Taylor the Quicksell Vendor</h1>
 
 **Taylor** is the quick sell NPC vendor located at spawn next to Asuna and Luna. She can also be found in the Safari camp along side Carter and Tyler.
 
@@ -19,3 +19,4 @@ Taylor has long auburn locks that cascade over her right shoulder and green eyes
 ## Trivia
 
 - Taylor is one of the few physical NPCs that doesn't have an item or cosmetic on them.
+- She's 5' 9"
